@@ -1,0 +1,1 @@
+sample app using node, express, jade and mongo
